@@ -1,0 +1,68 @@
+[
+	{
+		"ComplianceCheckID": ["Antivirus_disabled", "windows_antivirus_problem", "windows_security_center_service_problem"],
+		"IsoTitle": "Device Malware Protection",
+		"IsoDescription": "Where applicable, ensure that endpoints with access to critical servers or data must be protected by malware-protection software",
+		"MappedIsoAnnexID": [
+			"A.8.23",
+			"A.8.7",
+			"A.8.1",
+			"A.7.13",
+			"A.7.9",
+			"A.6.7"
+		]
+	},
+	{
+		"ComplianceCheckID": ["Bitlocker_must_be_used"],
+		"IsoTitle":       "Device Data Encryption",
+		"IsoDescription": "Where applicable, ensure that endpoints with access to critical servers or data must be encrypted to protect from unauthorised access",
+		"MappedIsoAnnexID": [
+			"A.8.24",
+			"A.8.23",
+			"A.8.12",
+			"A.8.11",
+			"A.8.1",
+			"A.7.13",
+			"A.7.9",
+			"A.6.7"
+		]
+	},
+	{
+		"ComplianceCheckID": ["Updates_Reboot_Pending", "windows_autoupdate_problem"],
+		"IsoTitle":       "Device Security Patches",
+		"IsoDescription": "Ensure that security patches to the operating systems are applied to endpoints with access to critical servers or data in a timely manner",
+		"MappedIsoAnnexID": [
+			"A.8.23",
+			"A.8.1",
+			"A.7.13",
+			"A.7.9",
+			"A.6.7",
+			"A.5.9"
+		]
+	},
+	{
+		"ComplianceCheckID": ["windows_lockout"],
+		"IsoTitle":       "Device Screenlock",
+		"IsoDescription": "Ensures that endpoints with access to critical servers or data are configured to auto-screen-lock after 15 minutes of inactivity",
+		"MappedIsoAnnexID": [
+			"A.8.23",
+			"A.8.1",
+			"A.7.13",
+			"A.7.9",
+			"A.6.7",
+			"A.7.7"
+		]
+	},
+	{
+		"ComplianceCheckID": [""],
+		"IsoTitle":       "Device Inventory",
+		"IsoDescription": "Maintain an inventory of endpoint assets and segregates assets with access to critical data from the others",
+		"MappedIsoAnnexID": [
+			"A.5.9",
+			"A.5.12",
+			"A.5.13",
+			"A.5.15",
+			"A.7.9"
+		]
+	}
+]

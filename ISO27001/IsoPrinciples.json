@@ -1,0 +1,58 @@
+[
+	{
+		"IsoAnnexID": "A.5.9",
+		"Principle":  "An inventory of information and other associated assets, including owners, should be developed and maintained"
+	},
+	{
+		"IsoAnnexID": "A.5.12",
+		"Principle":  "Information should be classified according to the information security needs of the organization based on confidentiality, integrity, availability and relevant interested party requirements"
+	},
+	{
+		"IsoAnnexID": "A.5.13",
+		"Principle":  "An appropriate set of procedures for information labelling should be developed and implemented in accordance with the information classification scheme adopted by the organization"
+	},
+	{
+		"IsoAnnexID": "A.5.15",
+		"Principle":  "Rules to control physical and logical access to information and other associated assets should be established and implemented based on business and information security requirements"
+	},
+	{
+		"IsoAnnexID": "A.7.7",
+		"Principle":  "Clear desk rules for papers and removable storage media and clear screen rules for information processing facilities should be defined and appropriately enforced"
+	},
+	{
+		"IsoAnnexID": "A.8.7",
+		"Principle":  "Protection against malware should be implemented and supported by appropriate user awareness"
+	},
+	{
+		"IsoAnnexID": "A.8.24",
+		"Principle":  "Rules for the effective use of cryptography, including cryptographic key\nmanagement, shall be defined and implemented"
+	},
+	{
+		"IsoAnnexID": "A.8.23",
+		"Principle":  "Access to external websites should be managed to reduce exposure to malicious content"
+	},
+	{
+		"IsoAnnexID": "A.8.12",
+		"Principle":  "Data leakage prevention measures should be applied to systems, networks and any other devices that process, store or transmit sensitive information"
+	},
+	{
+		"IsoAnnexID": "A.8.11",
+		"Principle":  "Data masking should be used in accordance with the organizations topic-specific policy on access control and other related topic-specific policies, and business requirements, taking applicable legislation into consideration"
+	},
+	{
+		"IsoAnnexID": "A.8.1",
+		"Principle":  "Information stored on, processed by or accessible via user endpoint devices should be protected"
+	},
+	{
+		"IsoAnnexID": "A.7.13",
+		"Principle":  "Equipment should be maintained correctly to ensure availability, integrity and confidentiality of information"
+	},
+	{
+		"IsoAnnexID": "A.7.9",
+		"Principle":  "Off-site assets should be protected"
+	},
+	{
+		"IsoAnnexID": "A.6.7",
+		"Principle":  "Security measures should be implemented when personnel are working remotely to protect information accessed, processed or stored outside the organization premises"
+	}
+]
